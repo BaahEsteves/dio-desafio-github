@@ -1,0 +1,3 @@
+Desafio primeiro repositório:
+- Primeiro aprendemos a criar um novo repositório pelo github e então baixa-lo para o computador
+- Depois criamos um arquivo pelo computador e aprendemos a passa-lo para o github
