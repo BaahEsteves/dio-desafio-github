@@ -1,4 +1,5 @@
-Lembretes de como criar um repositório:
+# Lembretes de como criar um repositório:
+
 - Primeiro criar um novo repositório pelo GitHub
 - Baixar o repositório para o computador local. Usando o git clone +link
 - Criar outro arquivo pelo computador e passa-lo para o GitHub. Utilizando o "git add . " depois o "git commit -m "anotação" e depois o "git push origin main"
