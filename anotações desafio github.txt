@@ -1,3 +1,4 @@
-Desafio primeiro repositório:
-- Primeiro aprendemos a criar um novo repositório pelo github e então baixa-lo para o computador. Usando o git clone +link
-- Depois criamos um arquivo pelo computador e aprendemos a passa-lo para o github. Utilizando o "git add . " depois o "git commit -m "anotação" e depois o "git push origin main"
+Lembretes de como criar um repositório:
+- Primeiro criar um novo repositório pelo GitHub
+- Baixar o repositório para o computador local. Usando o git clone +link
+- Criar outro arquivo pelo computador e passa-lo para o GitHub. Utilizando o "git add . " depois o "git commit -m "anotação" e depois o "git push origin main"
